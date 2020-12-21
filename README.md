@@ -33,7 +33,9 @@ Introducing AWS Step Functions.
 looks good but not realtime
 
 https://github.com/freqtrade/freqtrade
-Freqtrade is a free and open source crypto trading bot written in Python.
+Freqtrade is a free and open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
+
+
 Issues labeled good first issue can be good first contributions, and will help get you familiar with the codebase.
 uses talib
 follow up on this
@@ -97,6 +99,25 @@ forum: https://forum.catalystcrypto.io/
 website expired
 discord: https://discord.com/channels/360051864110235648/360082867365216286
 
+https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance
+Hello and welcome to the code repository of @BlockchainEng Joaquin Roibal.
+This Github Repository is used as a collection of python codes that you may find useful for making your own cryptocurrency trading bots or applying advanced trading strategies (Triangular Arbitrage, Market Making) to the cryptocurrency markets. Among other useful tools.
+You may want to begin by watching my youtube video channel on introduction to crypto bot trading or advanced strategies such as triangular arbitrage, which will help you to understand the purpose and reasoning behind the code in this repo.
+CRYPTO TRADING BOT VIDEOS: https://www.youtube.com/channel/UCVTnyT4fUxYkvawbggo8-AQ
+
+https://github.com/ricequant/rqalpha
+translate from chinese lol
+
+https://github.com/CryptoSignal/Crypto-Signal
+CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 2,100 + stars, 580 + forks
+Track over 500 coins across Bittrex, Binance, Bittrex, Bitfinex, Coinbase, Gemini and more!
+uses ta-lib
+discord: https://discord.gg/MWTJVFf
+
+https://github.com/jasonstrimpel/volatility-trading
+A complete set of volatility estimators based on Euan Sinclair's Volatility Trading.
+http://www.amazon.com/gp/product/0470181990/tag=quantfinancea-20
+Hit me on twitter with comments, questions, issues @jasonstrimpel
 
 
 
