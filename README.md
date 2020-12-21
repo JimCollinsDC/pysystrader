@@ -72,6 +72,30 @@ Lastly, Your Strategies, which are sub-classes of Algo, handle the trading logic
 website: https://aroussi.com/post/the-future-of-qtpylib
 
 Supports multiple strategies
+Uses Flask! for dashboard
+
+https://github.com/Drakkar-Software/OctoBot
+Octobot is a powerful fully modular open-source cryptocurrency trading robot.
+This repository contains all the features of the bot (trading tools, user interfaces, services, ...). Octobot's tentacles contains the bot's strategies.
+To install OctoBot with its tentacles, just use the launcher and your OctoBot is ready !
+wiki: https://github.com/Drakkar-Software/OctoBot/wiki
+
+multipe exchange support
+Digital Ocean Promo
+
+https://github.com/sammchardy/python-binance
+This is an unofficial Python wrapper for the Binance exchange REST API v3.
+
+https://github.com/enigmampc/catalyst
+https://enigmampc.github.io/catalyst/
+Catalyst is an algorithmic trading library for crypto-assets written in Python. It allows trading strategies to be easily expressed and backtested against historical data (with daily and minute resolution), providing analytics and insights regarding a particular strategy's performance. Catalyst also supports live-trading of crypto-assets starting with four exchanges (Binance, Bitfinex, Bittrex, and Poloniex) with more being added over time.
+Secure: You and only you have access to each exchange API keys for your accounts.
+
+web: http://enigma.co/
+web: https://www.catalystcrypto.io/
+forum: https://forum.catalystcrypto.io/
+website expired
+discord: https://discord.com/channels/360051864110235648/360082867365216286
 
 
 
