@@ -151,8 +151,12 @@ HUGE LIST of python alo resources
 
 
 https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
- StockTradingGraph.py
- https://medium.com/@notadamking/visualizing-stock-trading-agents-using-matplotlib-and-gym-584c992bc6d4
+StockTradingGraph.py
+https://medium.com/@notadamking/visualizing-stock-trading-agents-using-matplotlib-and-gym-584c992bc6d4
+
+https://github.com/michaelchu/optopsy
+Optopsy is a nimble backtesting and statistics library for option strategies, it is designed to answer questions like "How do straddles perform on the SPX?" or "Which strikes and/or expiration dates should I choose to make the most potential profit?"
+Let's see how long calls perform on the SPX on a small demo dataset on the SPX: Download the following data sample from DeltaNeutral: http://www.deltaneutral.com/files/Sample_SPX_20151001_to_20151030.csv
 
 
 
