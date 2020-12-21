@@ -146,17 +146,27 @@ Here you can read more about why Jesse's features.
 https://github.com/ivopetiz/algotrading
 Algotrading Framework is a repository with tools to build and run working trading bots, backtest strategies, assist on trading, define simple stop losses and trailing stop losses, etc.
 
+https://github.com/michaelchu/optopsy
+Optopsy is a nimble backtesting and statistics library for option strategies, it is designed to answer questions like "How do straddles perform on the SPX?" or "Which strikes and/or expiration dates should I choose to make the most potential profit?"
+Let's see how long calls perform on the SPX on a small demo dataset on the SPX: Download the following data sample from DeltaNeutral: http://www.deltaneutral.com/files/Sample_SPX_20151001_to_20151030.csv
+
 https://github.com/kernc/backtesting.py
-HUGE LIST of python alo resources
+HUGE LIST of python algo resources
 
 
 https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
 StockTradingGraph.py
 https://medium.com/@notadamking/visualizing-stock-trading-agents-using-matplotlib-and-gym-584c992bc6d4
+https://github.com/wilsonfreitas/awesome-quant#trading--backtesting
+https://github.com/topics/options-strategies
+https://github.com/topics/options
+https://github.com/topics/options-trading
 
-https://github.com/michaelchu/optopsy
-Optopsy is a nimble backtesting and statistics library for option strategies, it is designed to answer questions like "How do straddles perform on the SPX?" or "Which strikes and/or expiration dates should I choose to make the most potential profit?"
-Let's see how long calls perform on the SPX on a small demo dataset on the SPX: Download the following data sample from DeltaNeutral: http://www.deltaneutral.com/files/Sample_SPX_20151001_to_20151030.csv
+
+
+
+
+
 
 
 
