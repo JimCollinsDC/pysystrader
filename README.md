@@ -118,6 +118,41 @@ https://github.com/jasonstrimpel/volatility-trading
 A complete set of volatility estimators based on Euan Sinclair's Volatility Trading.
 http://www.amazon.com/gp/product/0470181990/tag=quantfinancea-20
 Hit me on twitter with comments, questions, issues @jasonstrimpel
+https://github.com/topics/volatility
+https://github.com/topics/volatility-trading
+
+https://github.com/tensortrade-org/tensortrade
+TensorTrade is an open source Python framework for building, training, evaluating, and deploying robust trading algorithms using reinforcement learning. The framework focuses on being highly composable and extensible, to allow the system to scale from simple trading strategies on a single CPU, to complex investment strategies run on a distribution of HPC machines.
+
+discord: https://discord.gg/ZZ7BGWh
+gitter: https://gitter.im/tensortrade-framework/community
+
+https://github.com/notadamking/RLTrader
+Development on this library has slowed down, in favor of working on TensorTrade - a framework for trading with RL: https://github.com/notadamking/tensortrade
+If you'd like to learn more about how we created this agent, check out the Medium article: https://towardsdatascience.com/creating-bitcoin-trading-bots-that-dont-lose-money-2e7165fb0b29
+Later, we optimized this repo using feature engineering, statistical modeling, and Bayesian optimization, check it out: https://towardsdatascience.com/using-reinforcement-learning-to-trade-bitcoin-for-massive-profit-b69d0e8f583b
+
+https://github.com/jchao01/TradingView-data-scraper
+TradingView Chart Data Extractor
+Video Tutorial
+How-to screen recording: https://d.pr/v/VGCDNf
+
+https://github.com/jesse-ai/jesse
+Jesse is an advanced crypto trading framework which aims to simplify researching and defining trading strategies.
+Why Jesse?
+In short, Jesse is more accurate than other solutions, and way more simple. In fact, it is so simple that in case you already know Python, you can get started today, in matter of minutes, instead of weeks and months.
+Here you can read more about why Jesse's features.
+
+https://github.com/ivopetiz/algotrading
+Algotrading Framework is a repository with tools to build and run working trading bots, backtest strategies, assist on trading, define simple stop losses and trailing stop losses, etc.
+
+https://github.com/kernc/backtesting.py
+HUGE LIST of python alo resources
+
+
+https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
+ StockTradingGraph.py
+ https://medium.com/@notadamking/visualizing-stock-trading-agents-using-matplotlib-and-gym-584c992bc6d4
 
 
 
