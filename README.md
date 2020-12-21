@@ -60,7 +60,18 @@ https://www.systematicmoney.org/systematic-trading
 A series of examples using pysystemtrade for my blog posts can be found here.
 https://github.com/robcarver17/pysystemtrade_examples
 
+https://github.com/ranaroussi/qtpylib
+QTPyLib (Quantitative Trading Python Library) is a simple, event-driven algorithmic trading library written in Python, 
+that supports backtesting, as well as paper and live trading via Interactive Brokers.
+Using pub/sub architecture using ØMQ (ZeroMQ) for communicating between the Algo and the Blotter allows 
+for a single Blotter/multiple Algos running on the same machine.
+Have orders delivered to your mobile via SMS (requires a Nexmo or Twilio account).
+Full integration with TA-Lib via dedicated module (see documentation).
+Ability to import any Python library (such as scikit-learn or TensorFlow) to use them in your algorithms.
+Lastly, Your Strategies, which are sub-classes of Algo, handle the trading logic/rules. This is where you'll write most of your code.
+website: https://aroussi.com/post/the-future-of-qtpylib
 
+Supports multiple strategies
 
 
 
