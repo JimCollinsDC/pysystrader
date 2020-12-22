@@ -153,6 +153,16 @@ Let's see how long calls perform on the SPX on a small demo dataset on the SPX: 
 https://github.com/kernc/backtesting.py
 HUGE LIST of python algo resources
 
+https://github.com/vsnz/TradingView-Webhook-Bot
+very cool
+The TradingView Webhook Bot ⚙️ listens to TradingView alerts via webhooks using flask. All alerts can be instantly sent to Telegram, Discord, Twitter and/or Email.
+
+https://github.com/Ceruleanacg/Personae
+Personae is a repo that implements papers proposed methods in Deep Reinforcement Learning & Supervised Learning and applies them to Financial Market.
+
+
+
+
 
 https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
 StockTradingGraph.py
@@ -161,6 +171,8 @@ https://github.com/wilsonfreitas/awesome-quant#trading--backtesting
 https://github.com/topics/options-strategies
 https://github.com/topics/options
 https://github.com/topics/options-trading
+https://github.com/topics/option-pricing
+https://github.com/topics/option-strategies
 
 
 
