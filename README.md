@@ -1,12 +1,25 @@
 "# pysystrader" 
 
-add section for picking stategies
+add UI section for picking stategies
+
+External:
+lambda trading APIs (TradeKing, eTrade)
+multiple strategies - indicator sets
+report of strategies triggered
+backtest strategy against stock 
+which strategy worked best?
+pair stocks with strategy
+chart/graph overlay trangles on candlestick indicator
+tradingview charts
+import data
+order placement - sandbox
+track how sandbox orders did
+database
+vizualize:
+Canvasjs : overlay? triangles? candlestick?
+
 Project: https://trading-bot.cassandre.tech/learn/technical-analysis
 notes from https://cassandre.tech/
-External:
-trading API
-database
-
 Bot:
 Accountflux
 Orderflux
