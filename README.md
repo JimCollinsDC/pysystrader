@@ -1,8 +1,12 @@
 "# pysystrader" 
 
-add UI section for picking stategies
+focus on minimum viable product
+first release - recreate alerting service - underlying price
+get working locally , then add to AWS Lambda
+next - alerts for options and spreads 
 
-External:
+
+add UI section for picking stategies
 lambda trading APIs (TradeKing, eTrade)
 multiple strategies - indicator sets
 report of strategies triggered
@@ -15,8 +19,14 @@ import data
 order placement - sandbox
 track how sandbox orders did
 database
+
 vizualize:
 Canvasjs : overlay? triangles? candlestick?
+Data:
+TradeKing
+AlphaVantage https://www.alphavantage.co/
+IEX https://iexcloud.io/docs/api/
+QuanDL https://www.quandl.com/
 
 Project: https://trading-bot.cassandre.tech/learn/technical-analysis
 notes from https://cassandre.tech/
@@ -37,6 +47,8 @@ CreateMarketOrder
 CreateStopOrder
 CreateLimitOrder
 CreateStopLimitOrder
+
+
 
 "Cassandre will simulate valid exchange replies but won't execute them on the exchange. "
 
