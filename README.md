@@ -2,8 +2,11 @@
 
 focus on minimum viable product
 first release - recreate alerting service - underlying price
-get working locally , then add to AWS Lambda
+get working locally , then add to AWS Lambda - use Chalice
 next - alerts for options and spreads 
+next - strategy development
+next - techan graphs - backtesting
+
 
 
 add UI section for picking stategies
